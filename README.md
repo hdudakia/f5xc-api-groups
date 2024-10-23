@@ -23,8 +23,8 @@ The F5XC API Group Search Tool is designed to interact with the F5XC API to sear
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/hdudakia/f5xc-api-groups.git
+   cd f5xc-api-groups
    ```
 
 2. Install the required packages:
